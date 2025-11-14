@@ -41,6 +41,7 @@ See `local-agent-electron/docs/release_process.md` for complete release workflow
 
 ### Latest Versions
 
+- **v0.13.1** (2025-01-14) - Complete Internationalization & Bug Fixes
 - **v0.13.0** (2025-11-13) - iOS Integration Enhancements
 - **v0.12.15** (2025-01-12) - AI Precision Mode & Training Mode
 - **v0.12.14** (2025-11-11) - Mobile Test Designer Improvements
