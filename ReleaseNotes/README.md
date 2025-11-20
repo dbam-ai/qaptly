@@ -41,6 +41,7 @@ See `local-agent-electron/docs/release_process.md` for complete release workflow
 
 ### Latest Versions
 
+- **v0.13.5** (2025-11-20) - Macro support
 - **v0.13.3** (2025-11-19) - iOS Integration Improvements
 - **v0.13.2** (2025-01-17) - Screenshot Upload Fix
 - **v0.13.1** (2025-01-14) - Complete Internationalization & Bug Fixes
