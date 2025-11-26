@@ -41,6 +41,7 @@ See `local-agent-electron/docs/release_process.md` for complete release workflow
 
 ### Latest Versions
 
+- **v0.13.8** (2025-11-26) - Test Specification & Collection Enhancements
 - **v0.13.7** (2025-01-24) - Google Sign-In Support
 - **v0.13.6** (2025-11-24) - Two-Factor Authentication and Security Enhancements
 - **v0.13.5** (2025-11-20) - Macro support
