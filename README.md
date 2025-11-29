@@ -57,7 +57,7 @@ This repo does not accept pull requests. Please report bugs or request features 
 
 ---
 
-© 2025 DBAM-AI Ltd. All rights reserved.
+© 2025 DBAM AI LLC. All rights reserved.
 
 ---
 
@@ -120,5 +120,5 @@ This repo does not accept pull requests. Please report bugs or request features 
 
 ---
 
-© 2025 DBAM-AI Ltd. 版權所有。
+© 2025 DBAM AI LLC. 版權所有。
 
