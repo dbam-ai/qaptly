@@ -41,22 +41,20 @@ See `local-agent-electron/docs/release_process.md` for complete release workflow
 
 ### Latest Versions
 
+- **v0.14.0** (2025-11-29) - MCP Integration and Spec V2 Workflow
 - **v0.13.8** (2025-11-26) - Test Specification & Collection Enhancements
-- **v0.13.7** (2025-01-24) - Google Sign-In Support
+- **v0.13.7** (2025-11-24) - Google Sign-In Support
 - **v0.13.6** (2025-11-24) - Two-Factor Authentication and Security Enhancements
 - **v0.13.5** (2025-11-20) - Macro support
 - **v0.13.3** (2025-11-19) - iOS Integration Improvements
-- **v0.13.2** (2025-01-17) - Screenshot Upload Fix
-- **v0.13.1** (2025-01-14) - Complete Internationalization & Bug Fixes
+- **v0.13.2** (2025-11-17) - Screenshot Upload Fix
+- **v0.13.1** (2025-11-14) - Complete Internationalization & Bug Fixes
 - **v0.13.0** (2025-11-13) - iOS Integration Enhancements
-- **v0.12.15** (2025-01-12) - AI Precision Mode & Training Mode
-- **v0.12.14** (2025-11-11) - Mobile Test Designer Improvements
-- **v0.12.13** (2025-11-11) - Mobile Test Designer Enhancements
-- **v0.12.12** (2025-11-10) - Mobile Test Designer Polish
 
 ### Version Ranges
 
-- **v0.12.x - v0.13.x** (2025-11-05 onwards) - Mobile Test Designer development and iOS integration
+- **v0.14.x** (2025-11-29 onwards) - MCP (Model Context Protocol) integration, Spec V2 workflow, enhanced security
+- **v0.12.x - v0.13.x** (2025-11-05 to 2025-11-28) - Mobile Test Designer development and iOS integration
 - **v0.11.x** (2025-10-15 to 2025-11-04) - Mobile test execution framework and cross-platform support
 - **v0.10.x** (2025-10-14 to 2025-10-15) - Early mobile testing features
 - **v0.9.x** (2025-06-02 to 2025-10-08) - Desktop testing, initial Qaptly release
