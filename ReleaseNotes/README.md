@@ -41,6 +41,7 @@ See `local-agent-electron/docs/release_process.md` for complete release workflow
 
 ### Latest Versions
 
+- **v0.14.3** (2025-12-04) - Mobile Test Designer Bug Fixes
 - **v0.14.0** (2025-11-29) - MCP Integration and Spec V2 Workflow
 - **v0.13.8** (2025-11-26) - Test Specification & Collection Enhancements
 - **v0.13.7** (2025-11-24) - Google Sign-In Support
