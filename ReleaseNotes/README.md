@@ -41,6 +41,7 @@ See `local-agent-electron/docs/release_process.md` for complete release workflow
 
 ### Latest Versions
 
+- **v0.14.5** (2025-12-09) - Property Condition Editor and Mobile Analysis Enhancements
 - **v0.14.4** (2025-12-04) - Mobile Test Settings, Android Input Mode, APK Update Notification
 - **v0.14.3** (2025-12-04) - Mobile Test Designer Bug Fixes
 - **v0.14.0** (2025-11-29) - MCP Integration and Spec V2 Workflow
