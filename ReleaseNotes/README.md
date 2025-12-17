@@ -41,6 +41,7 @@ See `local-agent-electron/docs/release_process.md` for complete release workflow
 
 ### Latest Versions
 
+- **v0.14.7** (2025-12-17) - Visual Change Detection and Simplified Android Setup
 - **v0.14.6** (2025-12-14) - Enhanced Android Support and Mobile Test Designer Improvements
 - **v0.14.5** (2025-12-09) - Property Condition Editor and Mobile Analysis Enhancements
 - **v0.14.4** (2025-12-04) - Mobile Test Settings, Android Input Mode, APK Update Notification
