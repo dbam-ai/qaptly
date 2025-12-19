@@ -39,16 +39,6 @@ Please go to the [Releases page](https://github.com/dbam-ai/qaptly/releases) to 
 
 ---
 
-## 🤝 Contributing & Issues
-
-This repo does not accept pull requests. Please report bugs or request features by opening an Issue here:
-
-1. Go to [Issues](https://github.com/dbam-ai/qaptly/issues).
-2. Click **New issue** and provide a title and description.
-3. Label your issue (`bug`, `feature`, `help wanted`) as appropriate.
-
----
-
 ## 📅 Release Process
 
 - Development occurs in a private repository.
@@ -99,16 +89,6 @@ This repo does not accept pull requests. Please report bugs or request features 
 3. **生成案例**：輸入需求或使用者故事，自動產生測試案例。
 4. **編輯與維護**：調整或重新生成，保持案例與需求一致。
 5. **匯出**：支援 CSV、JSON 格式輸出。
-
----
-
-## 🤝 貢獻與問題回報
-
-本倉庫不接受 Pull Request。若遇到 Bug 或有功能建議，請於此處開 Issue：
-
-1. 前往 [Issues](https://github.com/dbam-ai/qaptly/issues) 。
-2. 點擊 **New issue** 並填寫標題與描述。
-3. 使用標籤（`bug`、`feature`、`help wanted`）分類。
 
 ---
 
