@@ -41,6 +41,7 @@ See `local-agent-electron/docs/release_process.md` for complete release workflow
 
 ### Latest Versions
 
+- **v0.14.9** (2025-12-20) - Unified Test Editor
 - **v0.14.8** (2025-12-19) - AI Agent Integration and Scene Analysis Improvements
 - **v0.14.7** (2025-12-17) - Visual Change Detection and Simplified Android Setup
 - **v0.14.6** (2025-12-14) - Enhanced Android Support and Mobile Test Designer Improvements
