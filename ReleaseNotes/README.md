@@ -41,6 +41,7 @@ See `local-agent-electron/docs/release_process.md` for complete release workflow
 
 ### Latest Versions
 
+- **v0.15.0** (2025-12-31) - Mobile Automation & Onboarding Update
 - **v0.14.10** (2025-12-24) - BDD Test Case Viewer and Scene Toolbox Enhancements
 - **v0.14.9** (2025-12-20) - Unified Test Editor
 - **v0.14.8** (2025-12-19) - AI Agent Integration and Scene Analysis Improvements
