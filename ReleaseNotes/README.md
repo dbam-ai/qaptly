@@ -41,6 +41,7 @@ See `local-agent-electron/docs/release_process.md` for complete release workflow
 
 ### Latest Versions
 
+- **v0.15.2** (2026-01-19) - AI Assistant and GPS Testing Features
 - **v0.15.1** (2025-12-31) - Windows Compatibility Hotfix
 - **v0.15.0** (2025-12-31) - Mobile Automation & Onboarding Update
 - **v0.14.10** (2025-12-24) - BDD Test Case Viewer and Scene Toolbox Enhancements
