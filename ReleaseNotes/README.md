@@ -41,6 +41,7 @@ See `local-agent-electron/docs/release_process.md` for complete release workflow
 
 ### Latest Versions
 
+- **v0.15.3** (2026-01-22) - UPP, Log Collection, and Android Enhancements
 - **v0.15.2** (2026-01-19) - User Feedback and GPS Testing Features
 - **v0.15.1** (2025-12-31) - Windows Compatibility Hotfix
 - **v0.15.0** (2025-12-31) - Mobile Automation & Onboarding Update
