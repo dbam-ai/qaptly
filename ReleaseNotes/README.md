@@ -41,6 +41,7 @@ See `local-agent-electron/docs/release_process.md` for complete release workflow
 
 ### Latest Versions
 
+- **v0.15.6** (2026-01-25) - AI Assistant State Mode and Device Connectivity Improvements
 - **v0.15.5** (2026-01-25) - Enhanced Reliability and User Experience
 - **v0.15.4** (2026-01-23) - Round Template Improvements and Performance Optimizations
 - **v0.15.3** (2026-01-22) - UPP, Log Collection, and Android Enhancements
