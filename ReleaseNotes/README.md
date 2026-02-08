@@ -41,6 +41,7 @@ See `local-agent-electron/docs/release_process.md` for complete release workflow
 
 ### Latest Versions
 
+- **v0.16.1** (2026-02-09) - Android Screenshot Fallback & Device Management
 - **v0.16.0** (2026-02-04) - Enhanced AI Test Generation with Third-Party Engine Support and SMS Features
 - **v0.15.9** (2026-01-27) - Android Input Improvements and Device Pre-check
 - **v0.15.6** (2026-01-25) - AI Assistant State Mode and Device Connectivity Improvements
