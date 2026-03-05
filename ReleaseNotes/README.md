@@ -41,6 +41,7 @@ See `local-agent-electron/docs/release_process.md` for complete release workflow
 
 ### Latest Versions
 
+- **v0.17.0** (2026-03-05) - Discovery, Local Scene Search, iOS GPS Spot Testing, AI Model Selection
 - **v0.16.3** (2026-02-24) - GPS Control, iOS GPS Mock, Android Streaming, Spec Discovery
 - **v0.16.2** (2026-02-13) - Android Tools Enhancement & GPS Route Planning
 - **v0.16.1** (2026-02-09) - Android Screenshot Fallback & Device Management
