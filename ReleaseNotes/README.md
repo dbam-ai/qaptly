@@ -41,6 +41,7 @@ See `local-agent-electron/docs/release_process.md` for complete release workflow
 
 ### Latest Versions
 
+- **v0.17.2** (2026-03-16) - ADB WiFi Setup, API Test Manager Enhancements, Smarter Test Recovery
 - **v0.17.1** (2026-03-10) - Subscription Management, AI Failover, 2FA Setup, State Mode Planning
 - **v0.17.0** (2026-03-05) - Discovery, Local Scene Search, iOS GPS Spot Testing, AI Model Selection
 - **v0.16.3** (2026-02-24) - GPS Control, iOS GPS Mock, Android Streaming, Spec Discovery
