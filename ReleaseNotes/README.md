@@ -41,6 +41,7 @@ See `local-agent-electron/docs/release_process.md` for complete release workflow
 
 ### Latest Versions
 
+- **v0.17.4** (2026-04-07) - Mobile Test Designer AI Reliability, Android Input Validation, Window Switch Fix
 - **v0.17.3** (2026-03-30) - App Learning & Memory, Smarter AI Test Execution, Reliability Fixes
 - **v0.17.2** (2026-03-16) - ADB WiFi Setup, API Test Manager Enhancements, Smarter Test Recovery
 - **v0.17.1** (2026-03-10) - Subscription Management, AI Failover, 2FA Setup, State Mode Planning
