@@ -41,6 +41,7 @@ See `local-agent-electron/docs/release_process.md` for complete release workflow
 
 ### Latest Versions
 
+- **v0.17.8** (2026-07-01) - Authentication Stability
 - **v0.17.7** (2026-05-24) - Knowledge Layer + API Tester Refresh
 - **v0.17.6** (2026-05-16) - GitHub Copilot Provider Support
 - **v0.17.5** (2026-05-16) - AI Assistant Reliability + Codex Provider Option
