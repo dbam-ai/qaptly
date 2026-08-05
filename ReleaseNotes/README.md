@@ -41,6 +41,7 @@ See `local-agent-electron/docs/release_process.md` for complete release workflow
 
 ### Latest Versions
 
+- **v0.17.9** (2026-08-05) - Move Test Cases Between Folders, iOS Screenshot Reliability
 - **v0.17.8** (2026-07-01) - Authentication Stability
 - **v0.17.7** (2026-05-24) - Knowledge Layer + API Tester Refresh
 - **v0.17.6** (2026-05-16) - GitHub Copilot Provider Support
